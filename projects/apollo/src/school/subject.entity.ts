@@ -4,9 +4,11 @@ import {
   JoinTable,
   ManyToMany,
   PrimaryGeneratedColumn,
+  OneToMany,
 } from 'typeorm';
 import { Teacher } from './teacher.entity';
-import { ObjectType, Field, InputType } from '@nestjs/graphql';
+import { ObjectType, Field } from '@nestjs/graphql';
+import { Course } from './course.entity';
 
 @Entity()
 @ObjectType()
@@ -21,5 +23,9 @@ export class Subject {
 
   @ManyToMany(() => Teacher, (teacher) => teacher.subjects, { cascade: true })
   @JoinTable()
-  teachers: Teacher[];
+  teachers: Promise<Teacher[]>;
+
+  @OneToMany(() => Course, (course) => course.subject)
+  @Field(() => [Course], { nullable: true })
+  courses: Promise<Course[]>;
 }
