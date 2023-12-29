@@ -8,6 +8,8 @@ import { LocalStrategy } from './local.strategy';
 import { User } from './user.entity';
 import { UsersController } from './users.controller';
 import { AuthResolver } from './auth.resolver';
+import { UserResolver } from './user.resolver';
+import { UserService } from './user.service';
 
 @Module({
   imports: [
@@ -21,7 +23,14 @@ import { AuthResolver } from './auth.resolver';
       }),
     }),
   ],
-  providers: [LocalStrategy, JwtStrategy, AuthService, AuthResolver],
+  providers: [
+    LocalStrategy,
+    JwtStrategy,
+    AuthService,
+    AuthResolver,
+    UserResolver,
+    UserService,
+  ],
   controllers: [AuthController, UsersController],
 })
 export class AuthModule {}
