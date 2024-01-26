@@ -1,0 +1,22 @@
+Network: A network is a group of computers or other devices which are connected to eachother
+Internet: The internet works by connecting devices and computer systems together using a set of standardized protocols
+
+
+Protocols: A protocol is a set of rules and standards that define how information is exchanged between devices and systems
+    Benefit:  Allow devices and systems from different manufacturers and vendors to communicate with each other seamlessly
+	Internet Protocol (IP): is responsible for routing packets to their correct destination
+	Transmission Control Protocol (TCP): ensures that packets are transmitted reliably and in the correct order
+	
+Router: A device that directs packets of data between different networks.
+IP Address: A unique identifier assigned to each device on a network, used to route data to the correct destination.
+Domain Name: A human-readable name that is used to identify a website, such as google.com.
+DNS: The Domain Name System is responsible for translating domain names into IP addresses.
+HTTP: The Hypertext Transfer Protocol is used to transfer data between a client and a server
+Client: Send request
+Server: Receive request and response
+
+Web server: 
+	- Hardware: Stores web server software and a website's component files
+	- Software: Includes several parts that control how web users access hosted files
+
+HTTP server: a software that understands URLs (web addresses) and HTTP protocol

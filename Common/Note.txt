@@ -1,0 +1,65 @@
+Account:
+thong.le/Xinchao111@
+==============================
+Mail:
+thong.le@cyberlogitec.com/Anh..87@
+==============================
+Gmail
+thongle.clv@gmail.com/Anh..287
+Authen: xt7g l454 3rey ka76 ilm5 wshn pu6t dbcg
+=============================
+blueprint
+_ Username: thongle
+_ Password: Thong@8!
+============================
+Web mail
+https://ngwx.ktbizoffice.com/Login_eusu.aspx?compid=clt
+_ Username: 237243
+_ Password: Anh..87@
+===========================
+* New employee info template:
+- Full name: LE DUC THONG
+- Short Name: thongle
+- Employee Code: 237243
+- Project: 
+- Team:
+- Phone: 0965 966 567
+- Birthday: 19/03/1990
+- Start date: 04/12/2023
+- CLV Email: thong.le@cyberlogitec.com
+- Gmail: thongle.clv@gmail.com
+- English name: Thor
+===========================
+Github
+thongle.clv@gmail.com/Anh..87@
+==========================
+Gitlab
+thongleclv
+thongle.clv@gmail.com/8M4eiKZ4YmZnKF4
+==========================
+MongoDB
+https://cloud.mongodb.com/v2/657bd556cded765d8d98229a#/setup/access?includeToast=true
+Username: thongleclv
+Password: dERBwYtolAzvaNNF
+
+mongodb+srv://thongleclv:dERBwYtolAzvaNNF@cluster0.dukrwbu.mongodb.net/
+
+https://pre-render-d637e-default-rtdb.firebaseio.com/events
+======================================================================================
+https://discord.com/channels/@me
+thongle.clv@gmail.com/Anh..287
+=========================================
+Dear Mr.Duc Anh,
+
+Please assist me in approving this missed punch request because I forgot to punch out last Friday. I apologize for the inconvenience.
+
+Thank you for taking the time to consider this.
+
+Sincerely,
+Thong Le
+========================================
+PostGresQL
+admin1/5434
+========================================
+https://app.smartsheet.com/
+Xinchao111@
