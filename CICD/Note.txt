@@ -1,2 +1,0 @@
-sudo systemctl status gitlab-runner
-gitlab-runner register  --url https://gitlab.com  --token glrt-ojK8KPqMfQGVipVXANdr
